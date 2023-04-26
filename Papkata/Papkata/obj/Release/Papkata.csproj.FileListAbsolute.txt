@@ -1,0 +1,6 @@
+F:\12A-Limberidis\3.-ADS-main\Papkata\Papkata\obj\Release\Papkata.csproj.CoreCompileInputs.cache
+F:\12A-Limberidis\3.-ADS-main\Papkata\Papkata\bin\Release\Papkata.exe.config
+F:\12A-Limberidis\3.-ADS-main\Papkata\Papkata\bin\Release\Papkata.exe
+F:\12A-Limberidis\3.-ADS-main\Papkata\Papkata\bin\Release\Papkata.pdb
+F:\12A-Limberidis\3.-ADS-main\Papkata\Papkata\obj\Release\Papkata.exe
+F:\12A-Limberidis\3.-ADS-main\Papkata\Papkata\obj\Release\Papkata.pdb

@@ -1,0 +1,2 @@
+F:\12A-Limberidis\3.-ADS-main\Papkata\Papkata\obj\Debug\Papkata.csprojAssemblyReference.cache
+F:\12A-Limberidis\3.-ADS-main\Papkata\Papkata\obj\Debug\Papkata.csproj.CoreCompileInputs.cache
